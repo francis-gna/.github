@@ -2,7 +2,7 @@
 
 We are *the Francis GNA Project*. We are trying to develop the left over concept of simulated consciousness (SC). It literally means that we are building a computer simulation of human mind.
 
-You can read more about it here: [https://medium.com/@francis-gna/francis-gna-a-model-that-will-hopefully-beat-all-kind-of-ai-one-day-827f7bed6120](Francis GNA, a model that will hopefully beat all kind of AI one day.)
+You can read more about it here: [https://medium.com/@francis-gna/francis-gna-a-model-that-will-hopefully-beat-all-kind-of-ai-one-day-827f7bed6120](https://medium.com/@francis-gna/francis-gna-a-model-that-will-hopefully-beat-all-kind-of-ai-one-day-827f7bed6120)
 
 Please follow us:
 
